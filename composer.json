@@ -1,0 +1,19 @@
+{
+    "name": "ramani/contact",
+    "description": "This will send an email to admin and save contact query",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ramani\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramani2023",
+            "email": "ramanimoorthy45@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

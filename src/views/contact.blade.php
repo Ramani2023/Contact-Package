@@ -9,6 +9,7 @@
     <h1>Contact</h1>
 
 
+    {{ form_rest(form) }}
 
 <form action="{{route('contact')}}" method="post">
     @csrf
